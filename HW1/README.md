@@ -1,5 +1,5 @@
 ## Introduction 
-- use adaboost to implement face detection
+- face detection by implementing adaboost
 
 ## Reproducing Result
 1. put your own picture in "detect"
