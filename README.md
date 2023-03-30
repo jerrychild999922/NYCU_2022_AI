@@ -8,7 +8,7 @@
 |-----------|------------------------------------------------------|
 |HW1        |Adaboost                                              |
 |HW2        |BFS, DFS, UCS, A*                                     |
-|HW3        |minimax search, alpha-beta pruning, expectimax search |
+|HW3        |Minimax Search, Alpha-beta Pruning, Expectimax Search |
 |HW4        |RL algorithm, Q learning                              |
 |HW5        |Car tracking                                          |
  
